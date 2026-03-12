@@ -1,0 +1,17 @@
+<svg width="1600" height="1200" viewBox="0 0 1600 1200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="1200" fill="#EFE7DD"/>
+  <rect x="80" y="80" width="1440" height="1040" rx="48" fill="#F8F3EC"/>
+  <rect x="180" y="180" width="1240" height="840" rx="32" fill="url(#paint0_linear_1_2)"/>
+  <circle cx="1230" cy="330" r="160" fill="#D7C5B5" fill-opacity="0.35"/>
+  <circle cx="440" cy="760" r="240" fill="#C5B4A1" fill-opacity="0.28"/>
+  <path d="M1120 380C1120 500 1046 606 936 650V840C936 872 910 898 878 898H722C690 898 664 872 664 840V650C554 606 480 500 480 380C480 216 612 84 800 84C988 84 1120 216 1120 380Z" fill="#F7F2EA"/>
+  <path d="M784 262C824 262 856 294 856 334V840H744V334C744 294 776 262 816 262H784Z" fill="#CAB7A4"/>
+  <rect x="676" y="850" width="248" height="74" rx="26" fill="#191612" fill-opacity="0.08"/>
+  <text x="180" y="980" fill="#75685B" font-size="44" font-family="serif" letter-spacing="6">INCENSE STUDIO</text>
+  <defs>
+    <linearGradient id="paint0_linear_1_2" x1="250" y1="220" x2="1310" y2="920" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F9F5EF"/>
+      <stop offset="1" stop-color="#E6D8C8"/>
+    </linearGradient>
+  </defs>
+</svg>

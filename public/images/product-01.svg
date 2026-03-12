@@ -1,0 +1,9 @@
+<svg width="900" height="1200" viewBox="0 0 900 1200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="1200" fill="#F4EEE5"/>
+  <rect x="120" y="160" width="660" height="880" rx="40" fill="#FBF8F3"/>
+  <rect x="350" y="260" width="200" height="520" rx="100" fill="#C8B39F"/>
+  <rect x="390" y="200" width="120" height="100" rx="20" fill="#9E8772"/>
+  <rect x="280" y="620" width="340" height="180" rx="24" fill="#F4EEE5"/>
+  <text x="450" y="700" text-anchor="middle" fill="#6F6256" font-size="42" font-family="serif">CEDAR</text>
+  <text x="450" y="760" text-anchor="middle" fill="#A09183" font-size="20" letter-spacing="4">PLACEHOLDER</text>
+</svg>
